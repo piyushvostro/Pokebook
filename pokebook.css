@@ -1,0 +1,19 @@
+img{
+    width:44%;
+    height:400px;
+    float:left;
+    margin:2.5%;
+    border:1px solid yellowgreen;
+}
+body{
+    background-color: rgb(4, 8, 1);
+}
+p{
+    color:rgb(212, 226, 12);
+    margin-left:2.5%;
+    font-size:30px;
+    font-weight:800;
+    border-bottom:1px solid yellowgreen;
+    width:44%;
+    padding-bottom: 2px;
+}
